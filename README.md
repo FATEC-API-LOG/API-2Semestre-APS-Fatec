@@ -61,7 +61,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | **6** | Média | **Como** analista do ONSV, **quero** analisar a correlação estatística entre o crescimento da frota pesada e o aumento de sinistros fatais (2015–2025), **para que** eu fundamente estudos de impacto logístico. | 13 | 2 |
 | **7** | Alta | **Como** analista do ONSV, **quero** visualizar mapas temáticos no Power BI com a densidade de sinistros de veículos pesados por UF, municípios e principais rodovias federais (BRs), **para que** eu localize visualmente os trechos rodoviários mais críticos e perigosos do país em poucos cliques. | 20 | 2 |
 | **8** | Média | **Como** analista do ONSV, **quero** visualizar no painel a distribuição percentual de sinistros por classificação de gravidade (com vítimas fatais, feridos ou apenas danos materiais) e a proporção de ocorrências envolvendo motocicletas e veículos pesados, **para que** eu compreenda o impacto dessas colisões de forma clara e ágil. | 40 | 3 |
-| **9** | Baixa | **Como** analista do ONSV, **quero** uma interface responsiva, intuitiva e com fluxo de navegação em até 3 cliques, **para que** o acesso às informações seja ágil e ergonômico. | 13 | 3 |
+| **9** | Baixa | **Como** analista do ONSV, **quero** uma interface responsiva, intuitiva e com fluxo de navegação, **para que** o acesso às informações seja ágil e ergonômico. | 13 | 3 |
 | **10** | Baixa | **Como** analista do ONSV, **quero** um relatório técnico consolidado com os diagnósticos, boas práticas e desafios dos estados, **para que** o trabalho sirva de subsídio à formulação de políticas públicas. | 20 | 3 |
 
 
