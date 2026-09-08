@@ -29,25 +29,22 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 | Team Member | Rita Carolina | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rita-carolina79?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ritt4c) |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
 
+Os objetivos estabelecidos para esse projeto consistem em:
 
-## Tecnologias Utilizadas
+* Analisar a dinâmica e os padrões de sinistros de trânsito no Brasil entre 2015 e 2025, cruzando dados da PRF, DATASUS, frota e população para gerar indicadores epidemiológicos normalizados por Unidade Federativa;
+
+* Desenvolver uma solução analítica integrada com scripts em Python (Google Colab) e dashboards interativos, permitindo a visualização de taxas de severidade, mapas temáticos de densidade em rodovias federais e filtros dinâmicos de alta granularidade;
+
+* Avaliar o impacto logístico e os fatores de risco associados a veículos pesados e motocicletas, mapeando a desassistência por Pontos de Parada e Descanso (PPD) e correlacionando o crescimento da frota com sinistros fatais para subsidiar relatórios técnicos e políticas públicas.
+
+# Tecnologias Utilizadas
 
 * Jira Software
 * Power BI
-* Microsoft Excel
-* Slack
 * Python (Colab)
-* Mysql
-
-
-
+* Microsoft Excel
+* GitHub
 
 # Product Backlog — Análise Integrada de Segurança Viária no Brasil
 
