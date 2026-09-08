@@ -45,6 +45,7 @@ Os objetivos estabelecidos para esse projeto consistem em:
 * Python (Colab)
 * Microsoft Excel
 * GitHub
+* QGIS
 
 # Product Backlog — Análise Integrada de Segurança Viária no Brasil
 
