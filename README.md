@@ -53,16 +53,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 | :---: | :---: | :--- | :---: | :---: |
-| **1** | Alta | **Como** analista do ONSV, **quero** scripts no Google Colab em Python para extrair e normalizar dados da PRF e DATASUS (2015–2025), **para que** eu tenha uma base higienizada e livre de inconsistências. |  | 1 |
-| **2** | Alta | **Como** analista do ONSV, **quero** consolidar dados populacionais e séries de frota por UF e tipo de veículo, **para que** seja viável calcular indicadores epidemiológicos normalizados por estado. |  | 1 |
-| **3** | Alta | **Como** analista do ONSV, **quero** visualizar cartões e gráficos com as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho regional com a média do Brasil. |  | 1 |
-| **4** | Alta | **Como** analista do ONSV, **quero** filtros dinâmicos cruzados por ano, UF/região, tipo de veículo pesado e gravidade da ocorrência, **para que** eu possa isolar cenários críticos em poucos cliques. |  | 1 |
-| **5** | Alta | **Como** analista do ONSV, **quero** mapear e calcular a distância entre os sinistros com veículos pesados e os Pontos de Parada e Descanso (PPD), **para que** eu identifique trechos desassistidos e padrões de risco por fadiga. |  | 1 |
-| **6** | Média | **Como** analista do ONSV, **quero** analisar a correlação estatística entre o crescimento da frota pesada e o aumento de sinistros fatais (2015–2025), **para que** eu fundamente estudos de impacto logístico. |  | 2 |
-| **7** | Alta | **Como** analista do ONSV, **quero** visualizar mapas temáticos no Power BI com a densidade de sinistros de veículos pesados por UF, municípios e principais rodovias federais (BRs), **para que** eu localize visualmente os trechos rodoviários mais críticos e perigosos do país em poucos cliques. |  | 2 |
-| **8** | Média | **Como** analista do ONSV, **quero** visualizar no painel a distribuição percentual de sinistros por classificação de gravidade (com vítimas fatais, feridos ou apenas danos materiais) e a proporção de ocorrências envolvendo motocicletas e veículos pesados, **para que** eu compreenda o impacto dessas colisões de forma clara e ágil. |  | 3 |
-| **9** | Baixa | **Como** analista do ONSV, **quero** uma interface responsiva, intuitiva e com fluxo de navegação em até 3 cliques, **para que** o acesso às informações seja ágil e ergonômico. |  | 3 |
-| **10** | Baixa | **Como** analista do ONSV, **quero** um relatório técnico consolidado com os diagnósticos, boas práticas e desafios dos estados, **para que** o trabalho sirva de subsídio à formulação de políticas públicas. |  | 3 |
+| **1** | Alta | **Como** analista do ONSV, **quero** scripts no Google Colab em Python para extrair e normalizar dados da PRF e DATASUS (2015–2025), **para que** eu tenha uma base higienizada e livre de inconsistências. | 13 | 1 |
+| **2** | Alta | **Como** analista do ONSV, **quero** consolidar dados populacionais e séries de frota por UF e tipo de veículo, **para que** seja viável calcular indicadores epidemiológicos normalizados por estado. | 20 | 1 |
+| **3** | Alta | **Como** analista do ONSV, **quero** visualizar cartões e gráficos com as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho regional com a média do Brasil. | 40 | 1 |
+| **4** | Alta | **Como** analista do ONSV, **quero** filtros dinâmicos cruzados por ano, UF/região, tipo de veículo pesado e gravidade da ocorrência, **para que** eu possa isolar cenários críticos em poucos cliques. | 20 | 1 |
+| **5** | Alta | **Como** analista do ONSV, **quero** mapear e calcular a distância entre os sinistros com veículos pesados e os Pontos de Parada e Descanso (PPD), **para que** eu identifique trechos desassistidos e padrões de risco por fadiga. | 40 | 1 |
+| **6** | Média | **Como** analista do ONSV, **quero** analisar a correlação estatística entre o crescimento da frota pesada e o aumento de sinistros fatais (2015–2025), **para que** eu fundamente estudos de impacto logístico. | 13 | 2 |
+| **7** | Alta | **Como** analista do ONSV, **quero** visualizar mapas temáticos no Power BI com a densidade de sinistros de veículos pesados por UF, municípios e principais rodovias federais (BRs), **para que** eu localize visualmente os trechos rodoviários mais críticos e perigosos do país em poucos cliques. | 20 | 2 |
+| **8** | Média | **Como** analista do ONSV, **quero** visualizar no painel a distribuição percentual de sinistros por classificação de gravidade (com vítimas fatais, feridos ou apenas danos materiais) e a proporção de ocorrências envolvendo motocicletas e veículos pesados, **para que** eu compreenda o impacto dessas colisões de forma clara e ágil. | 40 | 3 |
+| **9** | Baixa | **Como** analista do ONSV, **quero** uma interface responsiva, intuitiva e com fluxo de navegação em até 3 cliques, **para que** o acesso às informações seja ágil e ergonômico. | 13 | 3 |
+| **10** | Baixa | **Como** analista do ONSV, **quero** um relatório técnico consolidado com os diagnósticos, boas práticas e desafios dos estados, **para que** o trabalho sirva de subsídio à formulação de políticas públicas. | 20 | 3 |
 
 
   
