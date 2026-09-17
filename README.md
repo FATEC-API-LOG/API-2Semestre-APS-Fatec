@@ -51,7 +51,7 @@ Os objetivos estabelecidos para esse projeto consistem em:
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 | :---: | :---: | :--- | :---: | :---: |
-| **1** | Alta | **Como** analista do ONSV, **quero** consolidar dados populacionais e séries de frota por UF e tipo de veículo, **para que** seja viável calcular indicadores epidemiológicos normalizados por estado. | 20 | 1 |
+| **1** | Alta | **Como** analista do ONSV, **quero** consolidar dados populacionais e séries de frota por UF, **para que** seja viável calcular o índice de severidade dos sinistros. | 20 | 1 |
 | **3** | Alta | **Como** analista do ONSV, **quero** visualizar cartões e gráficos com as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho regional com a média do Brasil. | 40 | 1 |
 | **4** | Alta | **Como** analista do ONSV, **quero** filtros dinâmicos cruzados por ano, UF/região, tipo de veículo pesado e gravidade da ocorrência, **para que** eu possa isolar cenários críticos em poucos cliques. | 20 | 1 |
 | **5** | Alta | **Como** analista do ONSV, **quero** mapear e calcular a distância entre os sinistros com veículos pesados e os Pontos de Parada e Descanso (PPD), **para que** eu identifique trechos desassistidos e padrões de risco por fadiga. | 40 | 1 |
