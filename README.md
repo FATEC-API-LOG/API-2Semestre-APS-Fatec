@@ -51,14 +51,14 @@ Os objetivos estabelecidos para esse projeto consistem em:
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 | :---: | :---: | :--- | :---: | :---: |
-| **1** | Alta | **Como** analista do ONSV, **quero** consolidar dados populacionais e séries de frota por UF, **para que** seja viável calcular o índice de severidade dos sinistros. | 20 | 1 |
-| **2** | Alta | **Como** analista do ONSV, **quero** visualizar cartões e gráficos com as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho regional com a média do Brasil. | 40 | 1 |
-| **3** | Média | **Como** analista do ONSV, **quero** mapear por UF/região, a gravidade da ocorrência, **para que** eu possa comparar entre os estados. | 20 | 1 |
-| **4** | Alta | **Como** analista do ONSV, **quero** calcular e mapear a distância entre os sinistros com veículos pesados e os Pontos de Parada e Descanso (PPD), **para que** eu identifique trechos desassistidos e padrões de risco por fadiga no estado de São Paulo. | 40 | 2 |
-| **5** | Média | **Como** analista do ONSV, **quero** analisar a correlação estatística entre o crescimento da frota pesada e o aumento de sinistros fatais em São Paulo, **para que** eu fundamente estudos de impacto logístico. | 13 | 2 |
-| **6** | Alta | **Como** analista do ONSV, **quero** visualizar a densidade de sinistros de veículos pesados no sudeste dentro das rodovias federais (BRs),  **para que** eu localize visualmente os trechos rodoviários mais críticos e perigosos do estado. | 20 | 2 |
-| **7** | Média | **Como** analista do ONSV, **quero** visualizar a quantidade de sinistros por classificação de letalidade (com vítimas fatais e não fatais) em São José dos Campos **para que** eu compreenda o impacto dessas colisões de forma clara e ágil. | 40 | 3 |
-| **8** | Baixa | **Como** analista do ONSV, **quero** visualizar cartões e gráficos com as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho de São José dos Campos com a média do estado de São Paulo. | 13 | 3 |
+| **1** | Alta | **Como** analista do ONSV, **quero** consolidar dados populacionais e séries de frota por UF, **para que** seja viável calcular o índice de severidade dos sinistros. |  | 1 |
+| **2** | Alta | **Como** analista do ONSV, **quero** visualizar cartões e gráficos com as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho regional com a média do Brasil. |  | 1 |
+| **3** | Média | **Como** analista do ONSV, **quero** mapear por UF/região, a gravidade da ocorrência, **para que** eu possa comparar entre os estados. |  | 1 |
+| **4** | Alta | **Como** analista do ONSV, **quero** calcular e mapear a distância entre os sinistros com veículos pesados e os Pontos de Parada e Descanso (PPD), **para que** eu identifique trechos desassistidos e padrões de risco por fadiga no estado de São Paulo. |  | 2 |
+| **5** | Média | **Como** analista do ONSV, **quero** analisar a correlação estatística entre o crescimento da frota pesada e o aumento de sinistros fatais em São Paulo, **para que** eu fundamente estudos de impacto logístico. |  | 2 |
+| **6** | Alta | **Como** analista do ONSV, **quero** visualizar a densidade de sinistros de veículos pesados no sudeste dentro das rodovias federais (BRs),  **para que** eu localize visualmente os trechos rodoviários mais críticos e perigosos do estado. |  | 2 |
+| **7** | Média | **Como** analista do ONSV, **quero** visualizar a quantidade de sinistros por classificação de letalidade (com vítimas fatais e não fatais) em São José dos Campos **para que** eu compreenda o impacto dessas colisões de forma clara e ágil. |  | 3 |
+| **8** | Baixa | **Como** analista do ONSV, **quero** visualizar cartões e gráficos com as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho de São José dos Campos com a média do estado de São Paulo. |  | 3 |
   
 # Registro das Sprints
 
