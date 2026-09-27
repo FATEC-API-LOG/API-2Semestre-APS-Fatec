@@ -69,13 +69,21 @@ As funcionalidades mais específicas, como análise de PPD, veículos pesados e 
 ## 📊 Critérios de Aceitação
 - O MVP deverá permitir:
 •	Consolidar dados populacionais por UF/região;
+
 •	Consolidar dados de frota por UF/região;
+
 •	Visualizar o crescimento da frota durante o período analisado;
+
 •	Calcular as taxas de mortes por 100 mil habitantes;
+
 •	Calcular as taxas de sinistros por 10 mil veículos;
+
 •	Comparar os indicadores regionais com a média brasileira;
+
 •	Mapear a severidade dos sinistros por UF/região;
+
 •	Apresentar os resultados de forma clara e visual;
+
 •	Registrar os códigos, dados e evidências do desenvolvimento no GitHub.
 
 
