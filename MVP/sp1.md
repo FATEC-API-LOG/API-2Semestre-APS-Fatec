@@ -7,7 +7,7 @@ O MVP tem como objetivo validar a utilização de dados públicos para:
 
 Comparar taxas de mortes e sinistros entre regiões;
 Consolidar dados populacionais e de frota por UF/região;
-Identificar territórios com maior crescimento da frota;
+Identificar territórios que tiveram maior aumento de frota no Brasil durante o período analisado;
 Analisar a severidade dos sinistros por UF/região;
 Apoiar a visualização de informações relevantes para estudos de segurança viária.
 
@@ -29,7 +29,8 @@ Comparação entre regiões e com a média nacional;
 Análise da severidade dos sinistros;
 Visualização dos dados por meio de gráficos e mapas.
 
-Limitações conhecidas
+## Limitações conhecidas
+
 O MVP será desenvolvido utilizando dados públicos disponíveis nas fontes selecionadas pelo grupo;
 A disponibilidade e o período dos dados podem limitar algumas análises;
 As funcionalidades mais específicas, como análise de PPD, veículos pesados e densidade de sinistros, serão desenvolvidas nas Sprints posteriores. 
@@ -38,7 +39,7 @@ As funcionalidades mais específicas, como análise de PPD, veículos pesados e 
 
 ## 👥 Personas / Usuários-Alvo
 - **Analista do ONSV:** Profissional responsável por analisar dados relacionados à segurança viária e utilizar informações estatísticas para identificar padrões, diferenças regionais e possíveis áreas de atenção. 
-- **Persona 2:** Usuário que necessita consultar dados de população, frota e sinistros para realizar estudos, análises e pesquisas relacionadas à segurança e ao transporte.
+- **Gestor de Segurança Viária:** Usuário que necessita consultar dados de população, frota e sinistros para realizar estudos, análises e pesquisas relacionadas à segurança e ao transporte.
 
 ---
 
@@ -60,8 +61,8 @@ As funcionalidades mais específicas, como análise de PPD, veículos pesados e 
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
 | 01     | Visualização das taxas de mortes e sinistros; consolidação de dados populacionais e de frota por UF/região; mapeamento da severidade dos sinistros por UF/região.                        | Em andamento|
-| 02     | Análise da distância entre sinistros com veículos pesados e PPD; análise estatística entre frota pesada e sinistros fatais; visualização da densidade de sinistros de veículos pesados no Sudeste.
-| 02     | Visualização da classificação de letalidade dos sinistros em São José dos Campos; comparação das taxas de mortes e sinistros de São José dos Campos com a média do estado de São Paulo.
+| 02     | Análise da distância entre sinistros com veículos pesados e PPD; análise estatística entre frota pesada e sinistros fatais; visualização da densidade de sinistros de veículos pesados no Sudeste..  | Planejada|
+| 03     | Visualização da classificação de letalidade dos sinistros em São José dos Campos; comparação das taxas de mortes e sinistros de São José dos Campos com a média do estado de São Paulo.  | Planejada|
 
 ---
 
