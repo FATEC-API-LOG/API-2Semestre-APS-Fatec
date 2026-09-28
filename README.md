@@ -51,7 +51,7 @@ Os objetivos estabelecidos para esse projeto consistem em:
 
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 | :---: | :---: | :--- | :---: | :---: |
-| **1** | Alta | **Como** analista do ONSV, **quero** visualizar as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho regional com a média do Brasil. |  | 1 |
+| **1** | Alta | **Como** analista do ONSV, **quero** visualizar as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho regional com a média do Brasil. |40  | 1 |
 | **2** | Alta | **Como** analista do ONSV, **quero** mapear por UF/Região, a gravidade da ocorrência dos sinistros, **para que** eu possa comparar entre os estados |  | 1 |
 | **3** | Média | **Como** analista do ONSV, **quero** mapear por UF/região, a gravidade da ocorrência dos sinistros, **para que** eu possa comparar os indices de severidade dos sinistros UF/região. |  | 1 |
 | **4** | Alta | **Como** analista do ONSV, **quero** calcular e mapear a distância entre os sinistros com veículos pesados e os Pontos de Parada e Descanso (PPD), **para que** eu identifique trechos desassistidos e padrões de risco por fadiga no estado de São Paulo. |  | 2 |
