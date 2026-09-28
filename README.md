@@ -52,7 +52,7 @@ Os objetivos estabelecidos para esse projeto consistem em:
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 | :---: | :---: | :--- | :---: | :---: |
 | **1** | Alta | **Como** analista do ONSV, **quero** visualizar as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho regional com a média do Brasil. |40  | 1 |
-| **2** | Alta | **Como** analista do ONSV, **quero** mapear a gravidade das ocorrências de sinistros por UF e Região, **para que** eu possa comparar os índices de severidade entre os diferentes estados e regiões. |  | 1 |
+| **2** | Alta | **Como** analista do ONSV, **quero** mapear a gravidade das ocorrências de sinistros por UF e Região, **para que** eu possa comparar os índices de severidade entre os diferentes estados e regiões. | 40 | 1 |
 | **3** | Alta | **Como** analista do ONSV, **quero** calcular e mapear a distância entre os sinistros com veículos pesados e os Pontos de Parada e Descanso (PPD), **para que** eu identifique trechos desassistidos e padrões de risco por fadiga no estado de São Paulo. |  | 2 |
 | **4** | Média | **Como** analista do ONSV, **quero** analisar a correlação estatística entre o crescimento da frota pesada e o aumento de sinistros fatais em São Paulo, **para que** eu fundamente estudos de impacto logístico. |  | 2 |
 | **5** | Alta | **Como** analista do ONSV, **quero** visualizar a densidade de sinistros de veículos pesados no sudeste dentro das rodovias federais (BRs),  **para que** eu localize visualmente os trechos rodoviários mais críticos e perigosos do estado. |  | 2 |
