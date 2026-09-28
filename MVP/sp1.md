@@ -44,17 +44,10 @@ As funcionalidades mais específicas, como análise de PPD, veículos pesados e 
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID  | User Story                                                                 | Prioridade | Estimativa |
-|-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como analista do ONSV, quero visualizar as taxas de mortes por 100 mil habitantes e sinistros por 10 mil veículos, para que eu compare o desempenho regional com a média do Brasil..         | Alta       | 5 pontos   |
-| US2 | Como analista do ONSV, quero consolidar dados populacionais e número de frota por UF/região, para que seja viável visualizar territórios que tiveram maior aumento de frotas no Brasil durante esse período..         | Média      | 3 pontos   |
-| US3 | Como analista do ONSV, quero mapear por UF/região a gravidade da ocorrência dos sinistros, para que eu possa comparar os índices de severidade dos sinistros por UF/região.         | Média      | 3 pontos   |
-| US4 | Como analista do ONSV, quero calcular e mapear a distância entre os sinistros com veículos pesados e os Pontos de Parada e Descanso (PPD), para que eu identifique trechos desassistidos e padrões de risco por fadiga no estado de São Paulo.      | Média      | 3 pontos   |
-| US5 | Como analista do ONSV, quero analisar a relação estatística entre o crescimento da frota pesada e o aumento de sinistros fatais em São Paulo, para que eu fundamente estudos de impacto logístico.       | Média      | 3 pontos   |
-| US6 | Como analista do ONSV, quero visualizar a densidade de sinistros de veículos pesados no Sudeste dentro das rodovias federais (BRs), para que eu localize visualmente os trechos rodoviários mais críticos e perigosos da região.        | Média      | 3 pontos   |
-| US7 | Como analista do ONSV, quero visualizar a quantidade de sinistros por classificação de letalidade (com vítimas fatais e não fatais) em São José dos Campos, para que eu compreenda o impacto dessas colisões de forma clara e ágil.     | Média      | 3 pontos   |
-| US8 | Como analista do ONSV, quero visualizar as taxas de mortes por 100 mil habitantes e sinistros por 10 mil veículos, para que eu compare o desempenho de São José dos Campos com a média do estado de São Paulo.      | Média      | 3 pontos   |
-
+| Rank | Prioridade | User Story | Estimativa | Sprint |
+| :---: | :---: | :--- | :---: | :---: |
+| **1** | Alta | **Como** analista do ONSV, **quero** visualizar as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho regional com a média do Brasil. |40  | 1 |
+| **2** | Alta | **Como** analista do ONSV, **quero** mapear a gravidade das ocorrências de sinistros por UF e Região, **para que** eu possa comparar os índices de severidade entre os diferentes estados. | 40 | 1 |
 ---
 
 ## 📅 Sprint(s) Relacionadas
