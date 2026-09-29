@@ -48,6 +48,7 @@ As funcionalidades mais específicas, como análise de PPD, veículos pesados e 
 | :---: | :---: | :--- | :---: | :---: |
 | **1** | Alta | **Como** analista do ONSV, **quero** visualizar as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho regional com a média do Brasil. |40  | 1 |
 | **2** | Alta | **Como** analista do ONSV, **quero** mapear a gravidade das ocorrências de sinistros por UF e Região, **para que** eu possa comparar os índices de severidade entre os diferentes estados. | 40 | 1 |
+| **3** | Média | **Como** analista da ONSV, **quero** visualizar a taxa de sinistro com veículos de cargas, **para que** possa entender qual a relação com total de sinistro | 20 | 1 |
 ---
 
 ## 📅 Sprint(s) Relacionadas
