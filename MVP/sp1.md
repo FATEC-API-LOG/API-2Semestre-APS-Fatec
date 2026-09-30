@@ -112,6 +112,4 @@ Necessidades: Consultar informações consolidadas sobre os sinistros, comparar 
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+- https://drive.google.com/drive/folders/1KsBsVhOzcAABky5p1_oubT0JucGT89ZR?usp=drive_link
