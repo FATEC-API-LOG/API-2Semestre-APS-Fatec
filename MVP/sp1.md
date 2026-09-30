@@ -112,4 +112,5 @@ Necessidades: Consultar informações consolidadas sobre os sinistros, comparar 
 ---
 
 ## 📂 Anexos / Evidências
-- https://drive.google.com/drive/folders/1KsBsVhOzcAABky5p1_oubT0JucGT89ZR?usp=drive_link
+
+<img width="1131" height="1600" alt="mapa totaldeseveriedade" src="https://github.com/user-attachments/assets/09586c48-bda2-4620-a2a1-7761744ff436" />
