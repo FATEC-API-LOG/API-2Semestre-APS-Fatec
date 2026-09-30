@@ -111,6 +111,3 @@ Necessidades: Consultar informações consolidadas sobre os sinistros, comparar 
 
 <img width="1131" height="1600" alt="mapa mediadeseveriedade" src="https://github.com/user-attachments/assets/b5795318-451a-4929-8a47-fbebefba98fa" />
 
-<img width="1600" height="880" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/26c42b2c-ef8d-4877-b6a3-16ce4c393fce" />
-
-
