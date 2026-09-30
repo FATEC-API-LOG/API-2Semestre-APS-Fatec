@@ -76,24 +76,20 @@ Necessidades: Consultar informações consolidadas sobre os sinistros, comparar 
 
 ## 📊 Critérios de Aceitação
 - O MVP deverá permitir:
-•	Consolidar dados populacionais por UF/região;
 
-•	Consolidar dados de frota por UF/região;
+- Dados organizados por UF e ano (2015–2025).
 
-•	Visualizar o crescimento da frota durante o período analisado;
+- Gráfico do percentual de acidentes de carga por ano.
 
-•	Calcular as taxas de mortes por 100 mil habitantes;
+- Gráfico comparando acidentes gerais e de carga por ano.
 
-•	Calcular as taxas de sinistros por 10 mil veículos;
+- Gráfico comparando acidentes gerais e de carga por UF.
 
-•	Comparar os indicadores totais de sinistro com os indicadores de sinistros envolvendo veículos de carga;
+- Mapa com a distribuição dos acidentes de carga por UF.
 
-•	Mapear a severidade dos sinistros por UF/região;
+- Gráficos e mapa com título, legenda e fonte.
 
-•	Apresentar os resultados de forma clara e visual;
-
-•	Registrar os códigos, dados e evidências do desenvolvimento no GitHub.
-
+- Dados conferidos com a base tratada.
 
 ---
 
