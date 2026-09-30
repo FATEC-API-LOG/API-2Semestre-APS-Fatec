@@ -1,15 +1,21 @@
 # 📌 MVP - [Análise de Sinistros e Frota no Brasil]
 
 ## 🎯 Objetivo do MVP
-> Desenvolver uma solução de análise de dados para o ONSV (Observatório Nacional de Segurança Viária), permitindo consolidar, visualizar e comparar informações relacionadas à população, frota de veículos e sinistros de trânsito.
+> Desenvolver uma primeira versão da solução de análise de segurança viária no Brasil, para permitir a visualização e comparação das taxas de mortes e sinistros, da gravidade das ocorrências por UF e Região e da participação de veículos de carga nos sinistros.
 
-O MVP tem como objetivo validar a utilização de dados públicos para:
+Qual problema resolvido?
+A dificuldade de visualizar e comparar, de forma integrada, os dados de segurança viária entre os diferentes estados e regiões do Brasil, especialmente em relação às taxas de mortes e sinistros, à gravidade das ocorrências e à participação de veículos de carga.
 
-Comparar taxas de mortes e sinistros entre regiões;
-Consolidar dados populacionais e de frota por UF/região;
-Identificar territórios que tiveram maior aumento de frota no Brasil durante o período analisado;
-Analisar a severidade dos sinistros por UF/região;
-Apoiar a visualização de informações relevantes para estudos de segurança viária.
+Quais hipóteses serão validadas?
+A representação dos dados por meio de gráficos e mapas facilita a comparação entre estados e regiões.
+
+Os indicadores selecionados permitem observar diferenças na segurança viária entre as localidades.
+
+A visualização dos dados auxilia o analista na interpretação das ocorrências.
+
+Qual valor será entregue ao usuário final?
+Uma visualização inicial dos principais indicadores de segurança viária, permitindo ao usuário analisar e comparar os dados de forma mais clara e visual.
+
 
 ---
 
