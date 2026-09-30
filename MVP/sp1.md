@@ -3,49 +3,57 @@
 ## 🎯 Objetivo do MVP
 > Desenvolver uma primeira versão da solução de análise de segurança viária no Brasil, para permitir a visualização e comparação das taxas de mortes e sinistros, da gravidade das ocorrências por UF e Região e da participação de veículos de carga nos sinistros.
 
-Qual problema resolvido?
+- Qual problema resolvido?
 A dificuldade de visualizar e comparar, de forma integrada, os dados de segurança viária entre os diferentes estados e regiões do Brasil, especialmente em relação às taxas de mortes e sinistros, à gravidade das ocorrências e à participação de veículos de carga.
 
-Quais hipóteses serão validadas?
+- Quais hipóteses serão validadas?
 A representação dos dados por meio de gráficos e mapas facilita a comparação entre estados e regiões.
 
 Os indicadores selecionados permitem observar diferenças na segurança viária entre as localidades.
 
 A visualização dos dados auxilia o analista na interpretação das ocorrências.
 
-Qual valor será entregue ao usuário final?
+- Qual valor será entregue ao usuário final?
 Uma visualização inicial dos principais indicadores de segurança viária, permitindo ao usuário analisar e comparar os dados de forma mais clara e visual.
 
 
 ---
 
 ## 📝 Descrição da Solução
-> A solução consiste na coleta, organização, tratamento e análise de dados públicos relacionados à população, frota de veículos e sinistros de trânsito.
 
-Os dados serão tratados utilizando ferramentas como Python, Google Colab, Power BI e GitHub, permitindo a criação de análises e visualizações que auxiliem na interpretação dos dados.
+> Será desenvolvida uma primeira versão da solução de análise de segurança viária utilizando os dados. Nesta etapa, os dados serão tratados e organizados para gerar duas visualizações gráficas e mapas por UF e Região, permitindo analisar diferentes aspectos dos sinistros de trânsito no Brasil.
 
-O MVP será desenvolvido de forma incremental, dividido em Sprints, começando pelas análises de taxas, população, frota e severidade dos sinistros.
+- Funcionalidades principais
 
-Funcionalidades principais
-Consolidação de dados populacionais por UF/região;
-Consolidação de dados de frota por UF/região;
-Cálculo de taxas de mortes por 100 mil habitantes;
-Cálculo de taxas de sinistros por 10 mil veículos;
-Comparação entre regiões e com a média nacional;
-Análise da severidade dos sinistros;
-Visualização dos dados por meio de gráficos e mapas.
+Gráfico relacionado às taxas de mortes e/ou sinistros;
+
+Gráfico relacionado aos sinistros envolvendo veículos de carga;
+
+Mapas para visualização dos dados por UF e Região;
+
+Representação da gravidade/severidade dos sinistros;
+
+Comparação entre diferentes estados e regiões.
+
 
 ## Limitações conhecidas
+Dependência da qualidade das bases: possíveis inconsistências, diferenças de preenchimento ou ausência de informações nas bases podem influenciar os resultados apresentados.
 
-O MVP será desenvolvido utilizando dados públicos disponíveis nas fontes selecionadas pelo grupo;
-A disponibilidade e o período dos dados podem limitar algumas análises;
-As funcionalidades mais específicas, como análise de PPD, veículos pesados e densidade de sinistros, serão desenvolvidas nas Sprints posteriores. 
+ Grande volume de dados: a quantidade de informações disponibilizadas exigiu um processo significativo de organização, filtragem e tratamento antes de sua utilização nas visualizações.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Analista do ONSV:** Profissional responsável por analisar dados relacionados à segurança viária e utilizar informações estatísticas para identificar padrões, diferenças regionais e possíveis áreas de atenção. 
-- **Gestor de Segurança Viária:** Usuário que necessita consultar dados de população, frota e sinistros para realizar estudos, análises e pesquisas relacionadas à segurança e ao transporte.
+- **Analista do ONSV:** Profissional responsável por analisar dados relacionados à segurança viária e acompanhar os indicadores de sinistros no Brasil. 
+Necessidades: Consultar dados de sinistros de trânsito, comparar indicadores entre UFs e Regiões, analisar taxas de mortes e sinistros;
+
+Avaliar a gravidade das ocorrências;
+
+Verificar a participação de veículos de carga nos sinistros.
+- **Gestor de Segurança Viária:** Profissional que utiliza informações e indicadores de segurança viária para acompanhar o cenário dos sinistros e apoiar o planejamento de ações.
+
+
+Necessidades: Consultar informações consolidadas sobre os sinistros, comparar resultados entre estados e regiões, identificar diferenças nos níveis de gravidade das ocorrências e acompanhar indicadores relacionados a mortes, sinistros e veículos de carga.
 
 ---
 
