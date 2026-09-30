@@ -86,7 +86,7 @@ Necessidades: Consultar informações consolidadas sobre os sinistros, comparar 
 
 •	Calcular as taxas de sinistros por 10 mil veículos;
 
-•	Comparar os indicadores regionais com a média brasileira;
+•	Comparar os indicadores totais de sinistro com os indicadores de sinistros envolvendo veículos de carga;
 
 •	Mapear a severidade dos sinistros por UF/região;
 
