@@ -23,7 +23,7 @@
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
-| ID | Prioridade | História de Usuário (User Story) | Estimativa (h) | Sprint |
+| ID | Prioridade | História de Usuário (User Story) | Estimativa | Sprint |
 | :---: | :---: | :--- | :---: | :---: |
 | **4** | Alta | **Como** analista do ONSV, **quero** calcular e mapear a distância entre os sinistros com veículos pesados e os Pontos de Parada e Descanso (PPD), **para que** eu identifique trechos desassistidos e padrões de risco por fadiga no estado de São Paulo. | 40 | 2 |
 | **5** | Média | **Como** analista do ONSV, **quero** analisar a correlação estatística entre o crescimento da frota pesada e o aumento de sinistros fatais em São Paulo, **para que** eu fundamente estudos de impacto logístico. | 40 | 2 |
