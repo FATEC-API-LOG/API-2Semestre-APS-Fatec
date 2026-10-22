@@ -109,8 +109,6 @@ Necessidades: Consultar informações consolidadas sobre os sinistros, comparar 
 
 ## 📂 Anexos / Evidências
 
-<img width="1131" height="1600" alt="mapa mediadeseveriedade" src="https://github.com/user-attachments/assets/b5795318-451a-4929-8a47-fbebefba98fa" />
-
 [RELATÓRIO SPRINT 1 - APS.pdf](https://github.com/user-attachments/files/33031800/RELATORIO.SPRINT.1.-.APS.pdf)
 
 
