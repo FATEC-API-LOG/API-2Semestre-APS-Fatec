@@ -57,7 +57,7 @@ Desenvolvimento de uma interface de análise de dados e mapas temáticos em SVG/
 | Sprint | Entregas Principais | Status |
 | :---: | :--- | :---: |
 | **01** | Coleta, auditoria, higienização das bases do Infosiga/PRF e estruturação do repositório analítico | Concluído |
-| **02** | Mapas interativos (PPDs, KDE, Hotspots), cálculo de distâncias dos trechos críticos e correlação estatística frota × fatalidades | Em andamento |
+| **02** | Mapas interativos (PPDs, KDE, Hotspots), cálculo de distâncias dos trechos críticos e correlação estatística frota × fatalidades | Concluído |
 
 ---
 
