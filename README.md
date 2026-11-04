@@ -17,7 +17,7 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 
 # Equipe
 
-| Funcão | Nome | LinkedIn & GitHub |
+| Funcão | Nome | Linkedin & GitHub |
 | :---: | :--- | :---: |
 | Product Owner | Tiago Mesquita | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-mesquita-a2633a267?utm_source=share_via&utm_content=profile&utm_medium=member_ios) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/otiagomesquita) |
 | Scrum Master | José Augusto | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josé-augusto-2b66743b0?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoseAugustoV) |
