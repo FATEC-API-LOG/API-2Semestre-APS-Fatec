@@ -58,8 +58,8 @@ Os objetivos estabelecidos para esse projeto consistem em:
 | **4** | Alta | **Como** analista do ONSV, **quero** calcular e mapear a distância entre os sinistros com veículos pesados e os Pontos de Parada e Descanso (PPD), **para que** eu identifique trechos desassistidos e padrões de risco por fadiga no estado de São Paulo. | 40 | 2 |
 | **5** | Alta | **Como** analista do ONSV, **quero** analisar a correlação estatística entre o crescimento da frota pesada e o aumento de sinistros fatais em São Paulo, **para que** eu fundamente estudos de impacto logístico. | 40 | 2 |
 | **6** | Média | **Como** analista do ONSV, **quero** visualizar a densidade de sinistros de veículos pesados no sudeste dentro das rodovias federais (BRs),  **para que** eu localize visualmente os trechos rodoviários mais críticos e perigosos do estado. |20 | 2 |
-| **7** | Média | **Como** analista do ONSV, **quero** visualizar a quantidade de sinistros por classificação de letalidade (com vítimas fatais e não fatais) em São José dos Campos **para que** eu compreenda o impacto dessas colisões de forma clara e ágil. | 20 | 3 |
-| **8** | Baixa | **Como** analista do ONSV, **quero** visualizar as taxas de mortes por 100 mil hab. e sinistros por 10 mil veículos, **para que** eu compare o desempenho de São José dos Campos com a média do estado de São Paulo. | 20 | 3 |
+| **7** | Média | **Como** analista do ONSV, **quero** visualizar um ranking dos municípios do Vale do Paraíba (SP) cortados pela Rodovia Presidente Dutra (BR-116), ordenado pelo risco real de acidentes, **para** que eu possa identificar de forma justa quais cidades concentram os trechos mais críticos e direcionar políticas de segurança viária e fiscalização. | 20 | 3 |
+| **8** | Baixa | **Como** analista do ONSV, **quero** visualizar o índice de severidade em São José dos Campos, **para** que eu compreenda o impacto dessas colisões de forma clara e ágil. | 20 | 3 |
   
 # Registro das Sprints
 
