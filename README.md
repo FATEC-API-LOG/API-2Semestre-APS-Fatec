@@ -59,7 +59,7 @@ Os objetivos estabelecidos para esse projeto consistem em:
 | **5** | Alta | **Como** analista do ONSV, **quero** analisar a correlação estatística entre o crescimento da frota pesada e o aumento de sinistros fatais em São Paulo, **para que** eu fundamente estudos de impacto logístico. | 40 | 2 |
 | **6** | Média | **Como** analista do ONSV, **quero** visualizar a densidade de sinistros de veículos pesados no sudeste dentro das rodovias federais (BRs),  **para que** eu localize visualmente os trechos rodoviários mais críticos e perigosos do estado. |20 | 2 |
 | **7** | Média | **Como** analista do ONSV, **quero** visualizar um ranking dos municípios do Vale do Paraíba (SP) cortados pela Rodovia Presidente Dutra (BR-116), ordenado pelo risco real de acidentes, **para** que eu possa identificar de forma justa quais cidades concentram os trechos mais críticos e direcionar políticas de segurança viária e fiscalização. | 20 | 3 |
-| **8** | Baixa | **Como** analista do ONSV, **quero** visualizar o índice de severidade em São José dos Campos, **para** que eu compreenda o impacto dessas colisões de forma clara e ágil. | 20 | 3 |
+| **8** | Média | **Como** analista do ONSV, **quero** visualizar o índice de severidade em São José dos Campos, **para** que eu compreenda o impacto dessas colisões de forma clara e ágil. | 20 | 3 |
   
 # Registro das Sprints
 
@@ -67,6 +67,6 @@ Os objetivos estabelecidos para esse projeto consistem em:
 |-------------------|------------|----------|-----------|
 | 01                | 30/09/2026 | Concluído  | [MVP](MVP/sp1.md)  |
 | 02                | 28/10/2026 | Concluído  | [MVP](MVP/sp2.md)  |
-| 03                | 25/11/2026 | a fazer  | [MVP](MVP/sp3.md)  |
+| 03                | 25/11/2026 | Concluído | [MVP](MVP/sp3.md)  |
 | Feira de Soluções | 03/12/2026 | a fazer  | [MVP](#)  |
 
