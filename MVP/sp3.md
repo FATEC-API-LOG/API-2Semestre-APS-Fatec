@@ -25,8 +25,8 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| **7** | Média | **Como** analista do ONSV, **quero** visualizar um ranking dos municípios do Vale do Paraíba (SP) cortados pela Rodovia Presidente Dutra (BR-116), ordenado pelo risco real de acidentes, **para** que eu possa identificar de forma justa quais cidades concentram os trechos mais críticos e direcionar políticas de segurança viária e fiscalização. | 20 | 3 |
+| **8** | Média | **Como** analista do ONSV, **quero** visualizar o índice de severidade em São José dos Campos, **para** que eu compreenda o impacto dessas colisões de forma clara e ágil. | 20 | 3 |
 
 ---
 
