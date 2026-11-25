@@ -1,4 +1,4 @@
-# 📌 MVP 
+# 📌 MVP — Análise Integrada de Segurança Viária no Brasil (2015 - 2025)
 
 ## 🎯 Objetivo do MVP
 * **Qual problema resolve?** A distorção na análise de segurança viária causada pelo uso exclusivo de números absolutos de acidentes. Municípios com grandes frotas (como São José dos Campos) lideram o volume bruto de colisões, enquanto municípios menores cortados pela Rodovia Presidente Dutra (BR-116) escondem riscos proporcionais severos devido ao intenso tráfego de passagem. Além disso, faltava uma visão consolidada e rápida do índice de severidade (UPS) para apoiar decisões de fiscalização e políticas públicas.
