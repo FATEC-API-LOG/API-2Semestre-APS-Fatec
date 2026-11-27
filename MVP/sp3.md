@@ -75,7 +75,9 @@ Aplicação web interativa (*Single-Page Application* em HTML5, Tailwind CSS e J
 ---
 
 ## 📁 Anexos / Evidências
-* **Prints de tela:** Capturas das interfaces de Ranking de Risco Real (US 7), Matriz de Decisão e Painel de Severidade de São José dos Campos (US 8).
-* **Fluxos ou protótipos:** Aplicação web funcional consolidada no arquivo `painel_backlog_onsv.html`.
-* **Vídeo (MVP):** Demonstração navegável dos filtros, inspeção de diagnósticos municipais e exportação de dados.
-```[cite: 1, 2, 3, 4, 5]
+
+https://drive.google.com/file/d/1GVSSfehbBX6T1C9KPMoRG1fT-WlZIies/view?usp=drive_link
+
+---
+
+https://youtu.be/qiXq1606_Zw
